@@ -1,0 +1,6 @@
+name: Quests
+author: LittleBigMC
+version: 1.0
+api: [1.13.0]
+description: Complete set tasks for fun!
+main: LittleBigMC\Quests\Main
