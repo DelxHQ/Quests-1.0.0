@@ -6,13 +6,7 @@ use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerItemHeldEvent;
 use pocketmine\event\player\PlayerJoinEvent;
 use pocketmine\item\Item;
-use pocketmine\Player;
-use pocketmine\utils\TextFormat;
-use pocketmine\level\sound\AnvilUseSound;
-use pocketmine\entity\Entity;
 use pocketmine\plugin\PluginBase;
-use pocketmine\event\entity\EntityDamageEvent;
-use pocketmine\event\server\DataPacketReceiveEvent;
 use pocketmine\network\protocol\UseItemPacket;
 use pocketmine\utils\Config;
 
